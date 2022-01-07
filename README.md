@@ -1,5 +1,5 @@
 <h1 align="left">
-    <a href="https://github.com/m4mallu">Pdf Compressor Telegram Bot
+    <a href="https://t.me/south_kashmir">Pdf Compressor Telegram Bot
 </a>
 </h1>
 
