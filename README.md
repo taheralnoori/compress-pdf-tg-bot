@@ -41,8 +41,8 @@
   <summary><b>Developer</b></summary>
     <p align="left">
         <img alt="GPL3" src ="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="260px" style="max-width:100%;"/><br>
-            <a href="https://t.me/space4renjith"><b>Renjith Mangal</b></a> &nbsp;|&nbsp;
-                <a href="https://t.me/rmprojects"><b>Update Channel</b></a>
+            <a href="https://t.me/kashmir_1"><b>Renjith Mangal</b></a> &nbsp;|&nbsp;
+                <a href="https://t.me/Dsrs_Group"><b>Update Channel</b></a>
 </p>
 </details>
 <details>
@@ -78,7 +78,7 @@
 </p>
 </details>
 <p align="center">
-    <a href="https://t.me/space4renjith">
+    <a href="https://t.me/kashmir_1">
         <img alt="GPL3" src ="https://telegra.ph/file/c4f778ccfc576a954dd20.gif" width="340" height="214"/>
     </a>
 </p>
