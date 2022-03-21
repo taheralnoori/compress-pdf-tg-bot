@@ -1,15 +1,15 @@
 class Presets(object):
-    WELCOME_TXT = "<b>Assalamu alaikum Warahmatulla Wabarakatuh.. {}</b>\n<i>I can compress the size of pdf docs. Send me a pdf document to see " \
-                  "the magic !</i> "
-    INVALID_FORMAT = "<b>Error:</b>\n<i>I can only compress pdf documents. Please make it sure, you have given me a " \
-                     "valid document. Try again...</i>"
-    WAIT_MESSAGE = "⌛️ <b>Processing</b> ⌛"
-    DOWNLOAD_MSG = "⌛️ <b>Downloading</b> ⌛"
-    UPLOAD_MSG = "⌛️ <b>Uploading</b> ⌛"
+    WELCOME_TXT = "<b>مرحبا 👨🏻‍🎓👩🏻‍🎓  {}</b>\n<i> أنا بوت أقوم بضغط ملف pdf لك الى حجم اقل" \
+                  "جرب وسوف ترى بنفسك</i> \nأذا كان يا {} عندك أمتحان وكان حجم ملفك كبير للغاية وكان أنترنيت ضعيف عندك فالحل يمي 🧑🏻‍🍼 \n Dev&Eng:@ta_ja199 🧑🏻‍💻"
+    INVALID_FORMAT = "<b>خطا:</b>\n<i>يمكنني ضغط مستندات pdf فقط. من فضلك تأكد من أنك أعطيتني أ" \
+                     "وثيقة صالحة. حاول مجددا...</i>"
+    WAIT_MESSAGE = "⌛️ <b>Processing(معالجة)</b> ⌛"
+    DOWNLOAD_MSG = "⌛️ <b>Downloading(تحميل)</b> ⌛"
+    UPLOAD_MSG = "⌛️ <b>Uploading(رفع)</b> ⌛"
     FINISHED_BAR = "◼️"
     UN_FINISHED_BAR = "◻️"
-    FINISHED_DL = "<b>Success !</b>\n<i>Document downloaded successfully.</i>"
-    START_COMPRESSING = "⌛️ <b>Processing</b>  ⌛\n<i>Trying to compress the document.</i>"
-    FINISHED_JOB = "<b>Success</b> ✅ \n\n<i>Size before job: {}\nSize after job: {}\n\nCredits: </i><a " \
-                   "href='https://t.me/south_kashmir'><b> @south_kashmir</b></a> "
-    JOB_ERROR = "<b>Error:</b>\n<i>Something went wrong ! Process exited</i>"
+    FINISHED_DL = "<b>نجاح !</b>\n<i>تم تنزيل المستند بنجاح.</i>"
+    START_COMPRESSING = "⌛️ <b>معالجة</b>  ⌛\n<i>محاولة ضغط المستند</i>"
+    FINISHED_JOB = "<b>نجاح</b> ✅ \n\n<i>Size before job(الحجم قبل العمل): {}\nSize after job(الحجم بعد العمل): {}\n\nمطور: </i><a " \
+                   "href='https://t.me/ta_ja199'><b> @ta_ja199</b></a> "
+    JOB_ERROR = "<b>خطا:</b>\n<i>هناك خطأ ما ! تم الخروج من العملية</i>"
